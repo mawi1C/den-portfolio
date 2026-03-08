@@ -5,10 +5,10 @@ import { useState, useEffect, useRef } from "react";
 ══════════════════════════════════════════════ */
 const ROLES = [
   "Full-Stack Developer",
-  "Mobile Engineer",
-  "React Native Dev",
-  "Next.js Architect",
-  "UI/UX Enthusiast",
+  "Understanding",
+  "Sweet",
+  "Mabait",
+  "Pogi",
 ];
 
 const PROJECTS = [
