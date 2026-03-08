@@ -30,12 +30,6 @@ const PROJECTS = [
     desc: "A personal internship blog documenting my journey, learnings, and experiences as a developer intern — written by Den John Emmanuel Cabria.",
     demoUrl: "https://dens-blog.vercel.app/", codeUrl: "#",
   },
-  {
-    id: 4, num: "04", title: "Recidencia del Hamor", type: "Web App", year: "2025",
-    tags: ["React Vite", "Tailwind CSS", "Vercel"],
-    desc: "A restaurant advertisement site for Recidencia del Hamor featuring the menu, ambiance showcase, and an integrated table booking system.",
-    demoUrl: "https://recidencia-del-hamor.vercel.app/", codeUrl: "#",
-  },
 ];
 
 const STACK = [
