@@ -444,7 +444,7 @@ function Hero() {
             */}
             <div style={{ width: "100%", height: "100%", background: "linear-gradient(160deg, #1c1c1c 0%, #111 50%, #0d0d0d 100%)", display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center", gap: 14 }}>
               <div style={{ fontSize: isMobile ? 40 : 56, opacity: 0.18 }}>👤</div>
-              <span style={{ fontFamily: "'Outfit', sans-serif", fontSize: 9, color: "rgba(255,255,255,0.18)", letterSpacing: 3, textTransform: "uppercase" }}>Your Photo Here</span>
+              <span style={{ fontFamily: "'Outfit', sans-serif", fontSize: 9, color: "rgba(255,255,255,0.18)", letterSpacing: 3, textTransform: "uppercase" }}></span>
             </div>
             <div style={{ position: "absolute", inset: 0, pointerEvents: "none", background: "linear-gradient(to bottom, transparent 55%, rgba(10,10,10,0.65) 100%)" }} />
           </div>
