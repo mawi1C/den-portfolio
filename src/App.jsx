@@ -1,4 +1,5 @@
 import { useState, useEffect, useRef } from "react";
+import denPhoto from './assets/den.png'
 
 /* ══════════════════════════════════════════════
    DATA
@@ -443,7 +444,7 @@ function Hero() {
             transition: "transform 0.1s ease", transformStyle: "preserve-3d",
           }}>
             <img
-              src="/src/assets/den.png"
+              src={denPhoto}
               alt="Den Cabria"
               style={{
                 width: "100%",
