@@ -14,7 +14,7 @@ const ROLES = [
 const PROJECTS = [
   {
     id: 1, num: "01", title: "TypoTerror", type: "Web App", year: "2025",
-    tags: ["React Vite", "Tailwind CSS", "Node.js"],
+    tags: ["React Vite", "Tailwind CSS", "Next.js"],
     desc: "A fast-paced typing game where every typo is your enemy. Race against the clock, sharpen your accuracy, and survive the terror of the keyboard.",
     demoUrl: "https://typo-terror.vercel.app/", codeUrl: "https://github.com/mawi1C/TypoTerror",
   },
