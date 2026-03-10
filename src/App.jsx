@@ -442,16 +442,18 @@ function Hero() {
             boxShadow: "0 32px 100px rgba(0,0,0,0.7), 0 0 0 1px rgba(255,255,255,0.06)",
             transition: "transform 0.1s ease", transformStyle: "preserve-3d",
           }}>
-            {/*
-              ── ADD YOUR PHOTO ──
-              Replace the <div> below with:
-              <img src="/den.jpg" alt="Den Cabria" style={{ width:"100%", height:"100%", objectFit:"cover", display:"block" }} />
-              Put your photo in the /public folder.
-            */}
-            <div style={{ width: "100%", height: "100%", background: "linear-gradient(160deg, #1c1c1c 0%, #111 50%, #0d0d0d 100%)", display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center", gap: 14 }}>
-              <div style={{ fontSize: isMobile ? 40 : 56, opacity: 0.18 }}>👤</div>
-              <span style={{ fontFamily: "'Outfit', sans-serif", fontSize: 9, color: "rgba(255,255,255,0.18)", letterSpacing: 3, textTransform: "uppercase" }}></span>
-            </div>
+            <img
+              src="/src/assets/den.png"
+              alt="Den Cabria"
+              style={{
+                width: "100%",
+                height: "100%",
+                objectFit: "cover",
+                objectPosition: "center top",
+                display: "block",
+                filter: "grayscale(18%) brightness(0.82) contrast(1.08)",
+              }}
+            />
             <div style={{ position: "absolute", inset: 0, pointerEvents: "none", background: "linear-gradient(to bottom, transparent 55%, rgba(10,10,10,0.65) 100%)" }} />
           </div>
 
