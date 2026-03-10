@@ -19,13 +19,19 @@ const PROJECTS = [
     demoUrl: "https://typo-terror.vercel.app/", codeUrl: "https://github.com/mawi1C/TypoTerror",
   },
   {
-    id: 2, num: "02", title: "PawFind", type: "Mobile App", year: "2025",
+    id: 2, num: "02", title: "IcyNotes", type: "Mobile App", year: "2025",
+    tags: ["React Native", "Firebase", "AI / OCR"],
+    desc: "An AI-powered note-taking app for students. Scan handwritten notes, get instant summaries and explanations, generate quizzes, and share to a community library.",
+    demoUrl: "https://icynotes.vercel.app/", codeUrl: "https://github.com/mawi1C/IcyNotes",
+  },
+  {
+    id: 3, num: "03", title: "PawFind", type: "Mobile App", year: "2025",
     tags: ["React Native", "Firebase", "AI / ML"],
     desc: "An AI-powered pet behavior analysis app that helps reunite lost pets with their owners. Smart search meets compassionate tech.",
     demoUrl: "https://pawfindapp.vercel.app/", codeUrl: "https://github.com/mawi1C/PawFind-Web",
   },
   {
-    id: 3, num: "03", title: "Intern Blog", type: "Web App", year: "2025",
+    id: 4, num: "04", title: "Intern Blog", type: "Web App", year: "2025",
     tags: ["Next.js", "Tailwind CSS", "Vercel"],
     desc: "A personal internship blog documenting my journey, learnings, and experiences as a developer intern — written by Den John Emmanuel Cabria.",
     demoUrl: "https://dens-blog.vercel.app/", codeUrl: "#",
