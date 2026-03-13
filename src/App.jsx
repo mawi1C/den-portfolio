@@ -41,7 +41,7 @@ const PROJECTS = [
     id: 5,
     num: "05",
     title: "NapStop",
-    type: "Web App",
+    type: "Mobile App",
     year: "2026",
     tags: ["React", "Vite", "Vercel"],
     desc: "NapStop is a smart alarm web app that prevents oversleeping by combining alarms with productivity tools and reminders.",
