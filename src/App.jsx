@@ -14,7 +14,7 @@ const ROLES = [
 
 const PROJECTS = [
   {
-    id: 1, num: "01", title: "TypoTerror", type: "Web App", year: "2025",
+    id: 1, num: "01", title: "TypoTerror", type: "Web App", year: "2026",
     tags: ["React Vite", "Tailwind CSS", "Next.js"],
     desc: "A fast-paced typing game where every typo is your enemy. Race against the clock, sharpen your accuracy, and survive the terror of the keyboard.",
     demoUrl: "https://typo-terror.vercel.app/", codeUrl: "https://github.com/mawi1C/TypoTerror",
@@ -38,12 +38,8 @@ const PROJECTS = [
     demoUrl: "https://dens-blog.vercel.app/", codeUrl: "#",
   },
   {
-    id: 5,
-    num: "05",
-    title: "NapStop",
-    type: "Mobile App",
-    year: "2026",
-    tags: ["React", "Vite", "Vercel"],
+    id: 5, num: "05", title: "NapStop", type: "Mobile App", year: "2026",
+    tags: ["React", "Zustand", "TypeScript"],
     desc: "NapStop is a smart alarm web app that prevents oversleeping by combining alarms with productivity tools and reminders.",
     demoUrl: "https://napstop.vercel.app/",
     codeUrl: "https://github.com/mawi1C/napstop",
