@@ -37,6 +37,17 @@ const PROJECTS = [
     desc: "A personal internship blog documenting my journey, learnings, and experiences as a developer intern — written by Den John Emmanuel Cabria.",
     demoUrl: "https://dens-blog.vercel.app/", codeUrl: "#",
   },
+  {
+    id: 5,
+    num: "05",
+    title: "NapStop",
+    type: "Web App",
+    year: "2026",
+    tags: ["React", "Vite", "Vercel"],
+    desc: "NapStop is a smart alarm web app that prevents oversleeping by combining alarms with productivity tools and reminders.",
+    demoUrl: "https://napstop.vercel.app/",
+    codeUrl: "https://github.com/mawi1C/napstop",
+  },
 ];
 
 const STACK = [
