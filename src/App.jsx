@@ -6,10 +6,8 @@ import denPhoto from './assets/den.png'
 ══════════════════════════════════════════════ */
 const ROLES = [
   "Full-Stack Developer",
-  "Understanding",
-  "Sweet",
-  "Mabait",
-  "Pogi",
+  "Problem Solving",
+  "UI/UX Designer",
 ];
 
 const PROJECTS = [
