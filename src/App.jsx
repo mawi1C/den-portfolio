@@ -6,7 +6,7 @@ import denPhoto from './assets/den.png'
 ══════════════════════════════════════════════ */
 const ROLES = [
   "Full-Stack Developer",
-  "Problem Solving",
+  "Mobile App Developer",
   "UI/UX Designer",
 ];
 
@@ -47,7 +47,6 @@ const STACK = [
   { name: "Cloudinary",   cat: "Cloud" },
   { name: "Tailwind CSS", cat: "Frontend" },
   { name: "PHP",          cat: "Backend" },
-  { name: "Python",       cat: "Backend" },
   { name: "HTML / CSS",   cat: "Frontend" },
   { name: "MySQL",        cat: "Database" },
 ];
