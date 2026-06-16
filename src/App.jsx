@@ -39,16 +39,20 @@ const PROJECTS = [
 ];
 
 const STACK = [
+  { name: "React", cat: "Frontend" },
   { name: "React Native", cat: "Mobile" },
-  { name: "React Vite",   cat: "Frontend" },
   { name: "Next.js",      cat: "Frontend" },
   { name: "Node.js",      cat: "Backend" },
+  { name: "JavaScript",      cat: "Frontend" },
+  { name: "TypeScript",      cat: "Frontend" },
   { name: "Firebase",     cat: "Backend" },
   { name: "Cloudinary",   cat: "Cloud" },
   { name: "Tailwind CSS", cat: "Frontend" },
+  { name: "Bootstrap", cat: "Frontend" },
   { name: "PHP",          cat: "Backend" },
   { name: "HTML / CSS",   cat: "Frontend" },
   { name: "MySQL",        cat: "Database" },
+  { name: "CodeIgniter4",        cat: "Backend" },
 ];
 
 /* ══════════════════════════════════════════════
