@@ -41,6 +41,7 @@ const PROJECTS = [
 const STACK = [
   { name: "React", cat: "Frontend" },
   { name: "React Native", cat: "Mobile" },
+  { name: "Twrnc", cat: "Mobile" },
   { name: "Next.js",      cat: "Frontend" },
   { name: "Node.js",      cat: "Backend" },
   { name: "JavaScript",      cat: "Frontend" },
